@@ -1,4 +1,4 @@
-# Periodic Vehicle Routing Problem (PVRP)
+# Problème de tournées de véhicules périodiques (PVRP)
 
 En France les patients effectuant la dialyse à domicile sont gérés par un "Home Healthcare" (HHC Company)
 qui assure les services logistiques nécessaires. Cette entreprise est responsable de l’acquisition et l’installation
@@ -18,6 +18,8 @@ de visites et le coût de transport qui exige que la fréquence de visite soit f
 Nous sommes donc amenés à résoudre un problème de tournées de véhicules périodiques (PVRP pour Periodic Vehicle Routing Problem
 en anglais).
 
+Mots clés : Python, Clustering, K-Means, Optimisation, Gurobi
+
 ![image](https://user-images.githubusercontent.com/57875839/182021140-fc50889b-d857-47c7-a2f5-18a527b41d1d.png)
 
-Mots clés : Python, Clustering, K-Means, Optimisation, Gurobi
+
