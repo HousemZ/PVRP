@@ -17,4 +17,6 @@ We are faced with the challenge of solving a Periodic Vehicle Routing Problem (P
 
 Keywords: Python, Clustering, K-Means, Optimization, Gurobi
 
+### Authors : Houssem ZIDANI & Haithem BEN DRISSI
+
 ![image](https://user-images.githubusercontent.com/57875839/182022741-8b73350d-b990-4080-b589-5a9fc72cc04b.png)
