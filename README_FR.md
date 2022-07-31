@@ -20,6 +20,8 @@ en anglais).
 
 Mots clés : Python, Clustering, K-Means, Optimisation, Gurobi
 
+### Auteurs: Houssem ZIDANI & Haithem BEN DRISSI
+
 ![image](https://user-images.githubusercontent.com/57875839/182021140-fc50889b-d857-47c7-a2f5-18a527b41d1d.png)
 
 
